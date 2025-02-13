@@ -1,14 +1,10 @@
 const messages = [
-    "Are you sure?",
+    "NO",
     "Are you really sure Mr??",
     "Are you like positive?",
     "Mr please 🥺",
-    "Just think about it! (I Love You 😳",
-    "If you say no, I will be really sad...",
-    "I will be really really sad...",
-    "I will be really Really REALLY Sad, beyond the sadness you could imagine!",
-    "Ok fine then Mr, be that way 😡...",
-    "Go and live your life without me 😔",
+    "Just think about it! (I Love You 😳)",
+    "Ok fine then Mr, be that way! Go and live your life without me 😡...",
     "BE GAY! DO CRIME! 😡 i don't care",
     "I will go now ",
     "Just kidding, say Yes pretty Please!!! 🥺❤️"
