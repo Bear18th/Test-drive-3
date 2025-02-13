@@ -1,5 +1,4 @@
 const messages = [
-    "NO",
     "Are you really sure Mr??",
     "Are you like positive?",
     "Mr please 🥺",
